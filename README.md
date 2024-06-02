@@ -1,5 +1,5 @@
 # MVPCalculator-Regresi
-Menghitung point pertandingan pada game Mobile Legends setelah match untuk menentukan MVP (Most Valuable Player) berdasarkan statistik match dengan menggunakan Regresi Linear. Proyek ini dikerjakan bersama dengan Arasyi Diipseno Rifriyanto dan Juan Bastian.
+Menghitung point pertandingan pada game Mobile Legends setelah match untuk menentukan MVP (Most Valuable Player) berdasarkan statistik match dengan menggunakan Regresi Linear. Proyek ini dikerjakan bersama dengan teman saya berinisial ADR dan JB.
 
 ## Dataset
 Dataset dikumpulkan secara MANUAL dengan melihat history pertandingan dan mencatat statustuj hasilnya pada Google Spreadsheet. Dengan kolom-kolom atau variabel yang dicatat adalah:
